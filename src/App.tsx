@@ -1,6 +1,8 @@
 import { BrowserRouter as Router, Routes, Route/*, Link*/ } from 'react-router-dom';
 import HomePage from './Home';
 import Project1 from './ProjectPages/Project1';
+import './App.css'
+
 
 function App() {
   return (
