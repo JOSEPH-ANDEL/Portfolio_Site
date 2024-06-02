@@ -7,9 +7,9 @@ interface Props {
 function HomeCards({ project }: Props) {
     const cardStyle = {
         boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08)",
-        width: "96%",
+        width: "98%",
         height: "25%",
-        margin: "2%",
+        margin: "1%",
         backgroundColor: "#344C64",
         borderWidth: ".4em",
         borderColor: "#240750"
