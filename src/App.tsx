@@ -9,12 +9,10 @@ function App() {
   return (
     <Router>
       <div>
-        {/* Routes setup */}
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/Project1" element={<Project1 />} />
           <Route path="/Project2" element={<Project2 />} />
-
         </Routes>
       </div>
     </Router>
